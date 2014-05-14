@@ -1,1 +1,7 @@
 Directory Listing on Remote Server
+
+dmirpuri@foureyes:~$ ls
+one.txt  public_html  three.txt  two.txt
+dmirpuri@foureyes:~$ hostname
+foureyes.in
+dmirpuri@foureyes:~$ 
