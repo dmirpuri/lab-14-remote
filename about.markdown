@@ -10,9 +10,9 @@ title: About
 	* HTML
 	* Markdown
 * CSS Frameworks
-* More Noise_italicized_ from the Ceiling
+* More Noise _italicized_ from the Ceiling
 
 ## Labs
-	# [GitHub](http://github.com) page
-	# Markdown
-	# Bootstrap
+# [GitHub](http://github.com) page
+# Markdown
+# Bootstrap
